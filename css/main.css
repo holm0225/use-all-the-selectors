@@ -29,6 +29,7 @@ nav ul {
 .dfn + strong {
   color: #fff;
 }
+
 a:not(.no-highlight) {
   background-color: #719e07;
 }
@@ -49,10 +50,10 @@ ol li:last-child {
   background-color: #657ba3;
 }
 
-.types Li:nth-child(even) {
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-.types Li:nth-child(3n) {
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
